@@ -32,7 +32,7 @@ Before running the script, make sure you have the following dependencies install
 
 ### Example
 
-In the code, you can replace the URL `"https://www.example.com"` with any text or URL you want to encode into a QR code:
+In the code, you can replace the URL `"https://drive.google.com/file/d/12CmzoMMmKLOpkpmermzsuqdhEussFdv-/view?usp=sharing"` with any text or URL you want to encode into a QR code.(Just for refernce I have attached the url of my resume in this code):
 
 ```python
 data_to_encode = "https://drive.google.com/file/d/12CmzoMMmKLOpkpmermzsuqdhEussFdv-/view?usp=sharing"
